@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppAlgorithms",
+            "request": "launch",
+            "mainClass": "app.AppAlgorithms",
+            "projectName": "collections"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "collections"
+        }
+    ]
+}
