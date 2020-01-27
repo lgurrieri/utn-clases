@@ -79,7 +79,7 @@ El método **remove** de la inerfaz **Iterator** remueve el elemento que fue dev
 
 El framework de colecciones de JAVA define un número de interfaces para diferentes tipos de colecciones, como se muestra en la siguiente figura:
 
-![Jerarquía de interfaces de colecciones](/images/collection-interfaces.png)
+![Jerarquía de interfaces de colecciones](https://github.com/lgurrieri/utn-clases/blob/master/SEMANA-DIC-04-06/collections/collections/images/collection-interfaces.png)
 
 Hay dos interfaces fundamentales para las colecciones: **Collection** y **Map**.
 
@@ -130,6 +130,6 @@ Conceptualmente, no todas las colecciones con sets. Hacer que una interfaz del t
 
 La imagen a continuación muestra las colecciones de la librería de JAVA. No se han considerado las colecciones para el trabajo seguro con hilos.
 
-![Jerarquía de clases de colecciones](/images/collection-classes.png)
+![Jerarquía de clases de colecciones](https://github.com/lgurrieri/utn-clases/blob/master/SEMANA-DIC-04-06/collections/collections/images/collection-classes.png)
 
 Todas las clases implementan las interfaz Collection, exceptuando a las clases con los nombres que terminan con el sufijo Map. Esas clases, por el contrario, implementan la interfaz **Map**.
